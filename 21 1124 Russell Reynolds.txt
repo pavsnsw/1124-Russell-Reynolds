@@ -1,0 +1,52 @@
+21/1124 Russell Reynolds
+
+Crestron CP4N
+Firmware:
+IP: (172.22.0.1 Control Subnet)
+MAC:00:10:7F:EF:87:59
+S/N:
+Username: admin
+Password: PAVS2110
+
+Shure P300
+Firmware:
+IP:
+Ctrl MAC:00:0e:dd:50:df:a8
+Dante MAC:00:0e:dd:fb:79:25
+S/N:2RE0201851
+Username: admin
+Password: 
+
+Shure MXA710 2 (Table Back)
+Firmware:
+IP:
+Ctrl MAC:00:0e:dd:50:df:a8
+Dante MAC:00:0e:dd:fb:79:25
+S/N:2RE0201851
+Username: admin
+Password: 
+
+Shure MXA710 1 (Table Front)
+Firmware:
+IP:
+Ctrl MAC:00:0e:dd:60:d3:22
+Dante : 00:0e:dd:f6:d0:be
+S/N:2RE0201851
+Username: admin
+Password: 
+
+Polycom G7500
+Firmware:
+IP:
+MAC:
+S/N:
+Username: admin
+Password: 
+
+CISCO SG110D-08HP
+Firmware: 
+IP:
+MAC:
+S/N:
+Username: admin
+Password: 
